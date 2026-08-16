@@ -67,7 +67,7 @@ Experiments and applications involving machine learning models, predictive analy
 ---
 
 ## 📊 GitHub Stats
-
+![Stats](./profile/stats.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanMatuRob&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
